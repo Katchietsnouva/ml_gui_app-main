@@ -58,6 +58,7 @@ def on_change(state, var_name, var_val):
         state.pred = "this is a " + top_pred
         state.img_path = var_val
     #print(var_name, var_val)
+    #print(var_name, var_val)
 
 
 
